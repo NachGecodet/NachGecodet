@@ -27,4 +27,9 @@
 <br>
 <img width="30" src="./nodejs.png"/>   <img width="30" src="./mongodb.png"/>   <img width="30" src="./mysql.png"/>
 
+⚡ Fun Facts
+- I love Cooking
+- I love Coding
+- I learned programming because my first server needed developers and I didn't trust anyone
+
 <img src="https://github-readme-stats.vercel.app/api?username=NachGecodet&&show_icons=true&title_color=ffffff&icon_color=006ab0&text_color=daf7dc&bg_color=101010">
