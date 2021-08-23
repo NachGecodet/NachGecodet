@@ -10,7 +10,7 @@
 🌐 Languages
 <br>
 <br>
-</><img width="30" src="./java.png"/>   <img width="30" src="./kotlin.png"/>   <img width="30" src="./python.png"/>
+<img/><img width="30" src="./java.png"/>   <img width="30" src="./kotlin.png"/>   <img width="30" src="./python.png"/>
 
 💻 Tools
 
