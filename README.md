@@ -12,6 +12,11 @@
 <br>
 <img width="30" src="./java.png"/>   <img width="30" src="./kotlin.png"/>   <img width="30" src="./python.png"/>
 
+🤯 Learning
+<br>
+<br>
+<img width="30" src="./go.png"/>
+
 💻 Tools
 <br>
 <br>
