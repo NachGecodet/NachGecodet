@@ -10,9 +10,9 @@
 🌐 Languages
 <br>
 <br>
-<img/><img width="30" src="./java.png"/>   <img width="30" src="./kotlin.png"/>   <img width="30" src="./python.png"/>
+<img width="30" src="./java.png"/>   <img width="30" src="./kotlin.png"/>   <img width="30" src="./python.png"/>
 
 💻 Tools
-
+<img width="30" src="./intellij.png"/>   <img width="30" src="./webstorm.png"/>   <img width="30" src="./pycharm.png"/>   <img width="30" src="./vscode.png"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=NachGecodet&&show_icons=true&title_color=ffffff&icon_color=006ab0&text_color=daf7dc&bg_color=101010">
