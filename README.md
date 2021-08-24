@@ -3,7 +3,7 @@
 - Twitter: @NachGecodet
 
 🖥️ Current Projects
-- Split (Exploit Client)
+- [Split](https://github.com/SplitClient)
 - PluginLab (Plugin Shop)
 - 2 Secret Projects 🤫
 
