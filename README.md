@@ -1,5 +1,5 @@
 📫 How to Reach me?
-- Discord: ~NachGecodet🌈👻#0531
+- Discord: NachGecodet#0531
 - Twitter: @NachGecodet
 
 🖥️ Current Projects
