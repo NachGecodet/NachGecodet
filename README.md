@@ -3,17 +3,17 @@
 - Twitter: @NachGecodet
 
 🖥️ Current Projects
-- Secret 🤫
+- [Bradycat-Bot](https://bradycat.me)
 
 🌐 Languages
 <br>
 <br>
-<img width="30" src="./java.png"/>   <img width="30" src="./kotlin.png"/>   <img width="30" src="./python.png"/>   <img width="30" src="./javascript.png"/>
+<img width="30" src="./java.png"/>   <img width="30" src="./kotlin.png"/>   <img width="30" src="./python.png"/>   <img width="30" src="./javascript.png"/>   
+<img width="30" src="./go.png"/>
 
 🤯 Learning
 <br>
 <br>
-<img width="30" src="./go.png"/>
 
 💻 Tools
 <br>
